@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+  
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/opt/architect/logo-pa.jpg
+Exec=java -jar /opt/architect/architect.jar
+Name=SQL Power Architect
+NoDisplay=false
